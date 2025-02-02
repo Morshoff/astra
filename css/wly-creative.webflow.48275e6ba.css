@@ -3288,6 +3288,7 @@ ul, ol {
   position: absolute;
   inset: 0%;
   overflow: hidden;
+  margin: -11px;
 }
 
 .logos-wrap {
